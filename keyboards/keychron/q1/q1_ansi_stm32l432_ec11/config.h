@@ -64,3 +64,8 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 45
+
+/* MouseKey Configuration */
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_MAX_SPEED 5
+#define MOUSEKEY_TIME_TO_MAX 30
